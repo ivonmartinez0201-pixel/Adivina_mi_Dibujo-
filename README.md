@@ -81,7 +81,6 @@ Adivina_mi_Dibujo-/
 ├── training_history.png     # Gráficos de entrenamiento
 ├── confusion_matrix.png     # Matriz de confusión
 ├── requirements.txt         # Dependencias del proyecto
-├── .gitignore               # Archivos ignorados por Git
 └── README.md                # Esta documentación
 ```
 
